@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+**5 женских подкастов о жизни, любви и разочарованиях**
 
-You can use the [editor on GitHub](https://github.com/handmomo/culture/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Деми Мур запустила подкаст о сексе Dirty Diana, первый выпуск подкаста Мишель Обамы уже доступен на Spotify, психотерапевт Эстер Перель записывает встречи со своими клиентами на диктофон и выпускает их в подкасте How’s Work?, а блогер Эмма Чемберлен ведет личный аудиодневник Anything Goes. Эти и еще несколько подкастов заставляют задуматься и переосмыслить себя:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](podkast1.jpeg)
 
-### Markdown
+**Anything Goes от Эммы Чемберлен**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Эмма Чемберлен – популярный в США YouTube-блогер, которая запустила свой подкаст Anything Goes в формате личного дневника. Основная направленность подкаста – рассуждения на популярные повседневные темы, вроде отношений с родителями, уверенности в себе, выгорании и разговоров о будущем. Но есть и отдельные рубрики, в которых Эмма отвечает на вопросы или дает советы. Кому слушать этот подкаст? Всем. В особенности родителям детей-подростков и подросткам, у которых много вопросов, мало ответов и бунтарский дух на пределе.
 
-```markdown
-Syntax highlighted code block
+**Unlocking Us от Брене Браун**
 
-# Header 1
-## Header 2
-### Header 3
+Подкаст Unlocking Us от писательницы и социолога Брене Браун об эмоциях и жизни в социуме. В описании подкаста Браун написала: “Я хочу, чтобы этот подкаст получился настоящим и честным. Чтобы в нем были очевидными вся магия и весь ужас того, что значит быть человеком”. В основном писательница общается со знаменитыми гостями, среди которых успели побывать Риз Уизерспун и Керри Вашингтон и обсудить сериал “И повсюду тлеют пожары”. Но бывают также сольные выпуски и разговоры в формате “вопрос-ответ”.
 
-- Bulleted
-- List
+**Why Won’t You Date Me? от Николь Байер**
 
-1. Numbered
-2. List
+Название подкаста говорит само за себя: здесь обсуждают свидания, романтику, любовные сложности и радости. Основательница и ведущая подкаста Николь Байер вместе со своими приглашенными гостями (которыми становятся комики, друзья и не только) обсуждает их личную жизнь и пытается разобраться в своей, чтобы ответить на один вопрос: она умная, смешная и дружелюбная, так почему же она одна?
 
-**Bold** and _Italic_ and `Code` text
+![Image](podkast2.jpg)
 
-[Link](url) and ![Image](src)
-```
+**How’s Work? от Эстер Перель**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Эстер Перель – психотерапевт, специализирующаяся на межличностных отношениях. В своем подкасте How's Work? Перель затрагивает невидимые проблемы, которые влияют на построение бизнеса и здоровой рабочей атмосферы. В рамках подкаста к ней на сессии приходят основатели компаний, коллеги по работе, разведенные пары, которые продолжают работать вместе, и люди, которые так и не нашли "работу мечты". Учитывая, что в ходе разговора затрагиваются личные темы, а вопросы ведущей можно использовать в своей практике, слушать участников становится вдвойне интереснее.
 
-### Jekyll Themes
+**Dirty Diana от Деми Мур**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/handmomo/culture/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Деми Мур стала продюсером и ведущей подкаста Dirty Diana. Подкаст посвящен пониманию секса и сексуальности. В какой-то степени, это рассказ о том, как женщины не позволяют себе рассказывать о своих сексуальных желаниях и фантазиях, боясь показаться не теми, кем их привыкло видеть общество. Смелый личный подкаст об одной из самых важных сфер в жизни каждого. 
